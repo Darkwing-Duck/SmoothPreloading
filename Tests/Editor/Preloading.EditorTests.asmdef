@@ -1,0 +1,19 @@
+{
+    "name": "SmoothPreloading.EditorTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a9b8702128064f67959cbe4164e8687"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "versionDefines": [],
+    "noEngineReferences": false
+}
